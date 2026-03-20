@@ -1,2 +1,3 @@
-# next-iot-platform-vuc4
-Automated issue comment bot repository
+# Next Iot Platform Vuc4
+
+Automated issue comment bot repository.
